@@ -15,7 +15,7 @@ Below, you'll find details on:
 - Texts and translations from the presentation and the survey: [texts_and_translations.md](texts_and_translations.md)
 - The GPT-4 output for all texts including the prompts, LLM's inner dialogs, and the final outputs: [outputs.html](https://erdemdemir.github.io/plainlanguage/outputs.html)
 - My presentation to my colleagues  at Cambridge Cancer Trials Centre: [plainlang_presentation.pptx](plainlang_presentation.pptx) & [plainlang_presentation.pdf](plainlang_presentation.pdf)
-- In addition to the presentation, I created a survey with paragraphs 1-5 in [texts_and_translations.md](texts_and_translations.md) hoping that I could capture how my colleagues would feel about it, but only 1 (one) person responded to the survey, so apart from thanking this unsung hero, I can't say much about the results.
+- In addition to the presentation, I created a survey with paragraphs 1-5 in [texts_and_translations.md](texts_and_translations.md) hoping that I could capture how my colleagues would feel about it, but only 1 (one) person responded to the survey, so apart from thanking this unsung hero, I can't say much about the results. The survey itself is [here](https://docs.google.com/forms/d/e/1FAIpQLSdJd1WxlKYiaCiDL4FvWLUabHXIZ5BYNqfQ9hYvN4FhPO9Dbw/viewform?usp=sf_link).
 
 ## If you like try it yourself or get in touch
 
